@@ -1,2 +1,2 @@
 # Miscellaneous
-Place for miscellaneous code, packages (rpms...), etc.
+Place for miscellaneous, helpful code, packages (rpms...), etc.
